@@ -5,7 +5,7 @@ echo "What you want to say?"
 read input
 
 echo "
-____________  
+ ___________  
 |           |
 |$input     
 |           |
